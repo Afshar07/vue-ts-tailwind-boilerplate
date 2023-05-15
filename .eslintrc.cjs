@@ -15,4 +15,10 @@ module.exports = {
   env: {
     node: true,
   },
+  "prettier/prettier": [
+    "error",
+    {
+      endOfLine: "auto",
+    },
+  ],
 };
