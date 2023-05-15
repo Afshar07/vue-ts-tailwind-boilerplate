@@ -1,6 +1,7 @@
 # Vue.js 3 TypeScript Boilerplate
 
 This Vue.js 3 boilerplate is written in TypeScript and includes Pinia, Vue Router and Tailwind CSS.
+<br />
 Forked from [richardevcom Github](https://github.com/richardevcom/vue-ts-boilerplate) with a little configuration.
 
 ## Customize configuration
